@@ -1,5 +1,5 @@
 # Odoo JSON-RPC API
-
+https://www.cybrosys.com/odoo/odoo-books/odoo-16-development/rpc/json-rpc/
 ### 1. Introduction to Odoo JSON-RPC API
 
 Odoo's JSON-RPC API allows external applications to interact with Odoo databases remotely. It follows the JSON-RPC 2.0 specification and provides a range of services and methods for performing CRUD operations, executing actions, generating reports, and more.
